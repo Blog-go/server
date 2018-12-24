@@ -1,2 +1,5 @@
 # server
-- updating
+
+```
+go run main.go
+```
